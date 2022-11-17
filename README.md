@@ -16,7 +16,7 @@ _Or open the executable_
       <image src="https://cdn.discordapp.com/attachments/956253761528033310/1042815549056499752/unknown.png">
   <p/>
   
-## Usage :computer:
+## Usage
 ```
 Enter the CPS
 
